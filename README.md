@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 ResolveAi - Smart AI-Powered Customer Support System
 
 ResolveAi is an intelligent **AI-based customer support portal** that helps businesses handle user complaints, automate email replies, and track support tickets efficiently.  
@@ -33,3 +34,7 @@ The project is split into two folders — `/frontend` and `/backend` — allowin
 ---
 
 ## 🧩 Folder Structure
+=======
+# ResolveAi
+ResolveAI is an intelligent customer support web application that automates the process of handling customer complaints using Artificial Intelligence (AI). This project integrates React (frontend), Node.js + Express (backend), MongoDB (database), and SendGrid (email API) to create a complete, real-world customer interaction system.
+>>>>>>> a8526df9a436d8f56f0dce876a56ec60474e0e99
